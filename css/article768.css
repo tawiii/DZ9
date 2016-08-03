@@ -1,0 +1,257 @@
+@media (min-width: 481px) and (max-width: 768px) {
+  .sprite-sprite, .blog_fase, .update_time, .nav_bong, .nav_dg, .nav_india, .nav_awsm, .nav_rvcl, .nav_vz {
+    background-image: url('../img/../img/sprite-sb7d0f76053.png');
+    background-repeat: no-repeat;
+  }
+
+  .article {
+    padding-top: 68px;
+    background-color: #f9f9f9;
+    position: relative;
+    border-bottom: 1px solid #e6e6e6;
+    padding-left: 41px;
+    box-shadow: inset 0px 11px 6px -1px rgba(199, 199, 199, 0.71);
+  }
+
+  .blog {
+    display: inline-block;
+    width: 291px;
+    background-color: #fff;
+    padding-left: 22px;
+    margin-bottom: 86px;
+    border: 1px solid #f6f6f6;
+    padding-bottom: 37px;
+    margin-top: 31px;
+    padding-top: 1px;
+    position: relative;
+  }
+  .blog_fase {
+    background-position: 0 -207px;
+    display: block;
+    position: absolute;
+    width: 56px;
+    height: 55px;
+    margin-left: -48px;
+    margin-top: 16px;
+  }
+  .blog_nameBlog {
+    display: block;
+    padding-top: 27px;
+    font-size: 24px;
+    color: #454545;
+    margin-left: 18px;
+  }
+  .blog_nameBlogColor {
+    display: block;
+    color: #edbfff;
+  }
+  .blog_textBlog {
+    width: 254px;
+    padding-top: 9px;
+    line-height: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #454545;
+    overflow: hidden;
+    height: 148px;
+  }
+
+  .abslt {
+    position: relative;
+    top: 83px;
+    left: 86px;
+    margin-top: -20px;
+  }
+  .abslt_link {
+    background-color: #000;
+  }
+  .abslt_item {
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 2px solid #f6f6f1;
+  }
+
+  .update {
+    display: inline-block;
+    width: 36%;
+    margin-bottom: 91px;
+    margin-left: 92px;
+    margin-right: 20px;
+  }
+  .update_title {
+    font-size: 30px;
+    color: #454545;
+    margin-left: -37px;
+    margin-bottom: 20px;
+  }
+  .update_time {
+    background-position: 0 -411px;
+    padding-left: 66px;
+    height: 49px;
+    display: block;
+    font-size: 16px;
+    color: #454545;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    margin-left: -36px;
+    margin-bottom: 18px;
+    margin-top: 4px;
+    width: 98%;
+  }
+  .update_light {
+    display: block;
+    padding-top: 8px;
+    color: #676767;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+  }
+  .update_more {
+    float: right;
+    font-size: 18px;
+    color: #454545;
+    padding-right: 22px;
+    margin-right: -28px;
+    margin-top: 16px;
+  }
+  .update__fix {
+    margin-top: 19px;
+    margin-bottom: -5px;
+  }
+  .update_marg {
+    position: relative;
+    top: 17px;
+  }
+  .update_dispnone {
+    display: none;
+  }
+  .update_more960 {
+    display: none;
+  }
+
+  .nav {
+    text-align: center;
+    background-color: #f9f9f9;
+    padding-bottom: 27px;
+    width: 768px;
+  }
+  .nav_bong {
+    background-position: 0 -138px;
+    display: inline-block;
+    width: 69px;
+    height: 64px;
+    margin-right: 51px;
+    margin-left: 7px;
+  }
+  .nav_dg {
+    background-position: 0 0;
+    display: inline-block;
+    width: 72px;
+    height: 64px;
+  }
+  .nav_india {
+    background-position: 0 -267px;
+    display: inline-block;
+    width: 72px;
+    height: 64px;
+    margin-right: 62px;
+    margin-left: 51px;
+    margin-top: 26px;
+  }
+  .nav_awsm {
+    background-position: 0 -69px;
+    display: inline-block;
+    width: 72px;
+    height: 64px;
+  }
+  .nav_rvcl {
+    background-position: 0 -465px;
+    display: inline-block;
+    width: 104px;
+    height: 64px;
+    margin-right: 56px;
+    margin-left: 29px;
+    margin-top: 24px;
+  }
+  .nav_vz {
+    background-position: 0 -569px;
+    display: inline-block;
+    width: 79px;
+    height: 65px;
+  }
+
+  .artbot {
+    padding-top: 102px;
+    padding-bottom: 30px;
+    background-color: #ececec;
+  }
+  .artbot_categories {
+    display: block;
+    font-size: 24px;
+    color: #454545;
+    width: 120px;
+    margin-left: 20px;
+  }
+  .artbot_textCat {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #787878;
+    padding-top: 9px;
+    margin-left: 19px;
+    margin-bottom: 56px;
+    width: 83%;
+    line-height: 24px;
+    overflow: hidden;
+    height: 174px;
+  }
+  .artbot_inline {
+    display: inline-block;
+    width: 32%;
+  }
+  .artbot__marg {
+    padding-left: 12px;
+  }
+  .artbot__padd {
+    padding-left: 20px;
+  }
+  .artbot_recent {
+    display: none;
+  }
+  .artbot_logName {
+    display: none;
+  }
+
+  .footer {
+    background: url("../img/Home320b.jpg") no-repeat;
+    background-size: cover;
+    height: 153px;
+    padding-top: 44px;
+  }
+  .footer .ftr_item {
+    display: inline-block;
+    margin-bottom: 36px;
+  }
+  .footer .ftr_link {
+    display: block;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 22px;
+    margin-left: 19px;
+  }
+  .footer_link {
+    display: block;
+    width: 140px;
+    font-size: 12px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    text-shadow: 0px 3px 3px #3f3f3f;
+    float: right;
+    margin-right: 40px;
+    margin-top: 2px;
+  }
+  .footer_extra {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+  }
+}

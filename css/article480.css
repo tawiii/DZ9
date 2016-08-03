@@ -1,0 +1,233 @@
+@media (min-width: 321px) and (max-width: 480px) {
+  .sprite-sprite, .blog_fase, .update_time, .nav_bong, .nav_dg, .nav_india, .nav_awsm, .nav_rvcl, .nav_vz {
+    background-image: url('../img/../img/sprite-sb7d0f76053.png');
+    background-repeat: no-repeat;
+  }
+
+  .article {
+    padding-top: 68px;
+    background-color: #f9f9f9;
+    position: relative;
+    border-bottom: 1px solid #e6e6e6;
+    padding-left: 15px;
+    box-shadow: inset 0px 11px 6px -1px rgba(199, 199, 199, 0.71);
+  }
+
+  .blog {
+    width: 78%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding-left: 43px;
+    margin-bottom: 90px;
+    border: 1px solid #f6f6f6;
+    padding-bottom: 30px;
+  }
+  .blog_fase {
+    background-position: 0 -207px;
+    display: block;
+    position: absolute;
+    width: 56px;
+    height: 55px;
+    margin-left: -73px;
+    margin-top: 18px;
+  }
+  .blog_nameBlog {
+    display: block;
+    padding-top: 29px;
+    font-size: 30px;
+    color: #454545;
+    margin-left: -7px;
+  }
+  .blog_nameBlogColor {
+    color: #edbfff;
+  }
+  .blog_textBlog {
+    width: 92%;
+    padding-top: 14px;
+    line-height: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #454545;
+  }
+
+  .abslt {
+    position: relative;
+    top: 77px;
+    left: 107px;
+    margin-top: -22px;
+  }
+  .abslt_link {
+    background-color: #000;
+  }
+  .abslt_item {
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 2px solid #f6f6f1;
+  }
+
+  .update {
+    width: 265px;
+    margin: 0 auto;
+    margin-bottom: 124px;
+  }
+  .update_title {
+    font-size: 30px;
+    color: #454545;
+    margin-left: -41px;
+    padding-bottom: 15px;
+  }
+  .update_time {
+    background-position: 0 -411px;
+    padding-left: 66px;
+    height: 49px;
+    display: block;
+    font-size: 16px;
+    color: #454545;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    margin-left: -40px;
+    padding-top: 5px;
+    margin-bottom: 12px;
+    width: 98%;
+  }
+  .update_light {
+    display: block;
+    padding-top: 8px;
+    color: #676767;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+  }
+  .update_more {
+    float: right;
+    font-size: 18px;
+    color: #454545;
+    padding-right: 14px;
+    padding-top: 6px;
+    margin-right: -46px;
+  }
+  .update__marg {
+    padding-top: 4px;
+    margin-top: 14px;
+  }
+  .update_dispnone {
+    display: none;
+  }
+  .update_more960 {
+    display: none;
+  }
+
+  .nav {
+    text-align: center;
+    background-color: #f9f9f9;
+    padding-bottom: 36px;
+    border-bottom: 1px solid #e6e6e6;
+    width: 480px;
+  }
+  .nav_bong {
+    background-position: 0 -138px;
+    display: inline-block;
+    width: 69px;
+    height: 64px;
+    margin-right: 59px;
+    margin-left: 67px;
+  }
+  .nav_dg {
+    background-position: 0 0;
+    display: inline-block;
+    width: 72px;
+    height: 64px;
+  }
+  .nav_india {
+    background-position: 0 -267px;
+    display: inline-block;
+    width: 72px;
+    height: 64px;
+    margin-right: 62px;
+    margin-left: 51px;
+    margin-top: 38px;
+  }
+  .nav_awsm {
+    background-position: 0 -69px;
+    display: inline-block;
+    width: 72px;
+    height: 64px;
+  }
+  .nav_rvcl {
+    background-position: 0 -465px;
+    display: inline-block;
+    width: 104px;
+    height: 64px;
+    margin-right: 60px;
+    margin-left: 29px;
+    margin-top: 24px;
+  }
+  .nav_vz {
+    background-position: 0 -569px;
+    display: inline-block;
+    width: 72px;
+    height: 64px;
+  }
+
+  .artbot {
+    margin-top: 79px;
+    margin-bottom: 82px;
+  }
+  .artbot_categories {
+    display: block;
+    font-size: 24px;
+    color: #454545;
+    margin-left: 18px;
+    margin-top: -2px;
+  }
+  .artbot_textCat {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #787878;
+    padding-top: 9px;
+    margin-left: 17px;
+    margin-bottom: 56px;
+    width: 93%;
+    line-height: 24px;
+    overflow: hidden;
+    height: 100px;
+  }
+  .artbot_recent {
+    display: none;
+  }
+  .artbot_logName {
+    display: none;
+  }
+
+  .footer {
+    background: url("../img/Home320b.jpg") no-repeat;
+    background-size: cover;
+    height: 153px;
+    padding-top: 48px;
+  }
+  .footer .ftr_item {
+    display: inline-block;
+    margin-bottom: 36px;
+  }
+  .footer .ftr_link {
+    display: block;
+    font-size: 20px;
+    color: #fff;
+    margin-right: 1px;
+    margin-left: 21px;
+  }
+  .footer_link {
+    display: block;
+    width: 140px;
+    margin: 0 auto;
+    font-size: 12px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    text-shadow: 0px 3px 3px #3f3f3f;
+  }
+  .footer_extra {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+  }
+}

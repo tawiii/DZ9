@@ -1,0 +1,134 @@
+@media (min-width: 321px) and (max-width: 480px) {
+  .header {
+    background: url("../img/Home480.jpg") no-repeat;
+    background-size: cover;
+    border-bottom: 1px solid #35273c;
+    padding-top: 67px;
+  }
+  .header_logName {
+    padding-bottom: 15px;
+    font-size: 48px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0px 3px 3px #3f3f3f;
+  }
+  .header_violet {
+    color: #533b5e;
+    text-shadow: none;
+  }
+  .header_slider {
+    display: block;
+    padding-top: 123px;
+    padding-bottom: 195px;
+    font-size: 36px;
+    color: #fff;
+    text-align: center;
+    padding-right: 218px;
+    text-shadow: 0px 3px 3px #3f3f3f;
+    background: url(../img/Ip480.png) 89% 20% no-repeat;
+  }
+  .header_pink {
+    margin-left: 18px;
+    margin-top: 1px;
+    display: block;
+    font-size: 20px;
+    color: #edbfff;
+    letter-spacing: -0.5px;
+  }
+  .header_textHead {
+    display: none;
+  }
+  .header_headText {
+    display: none;
+  }
+  .header_del {
+    display: none;
+  }
+
+  .menu__home {
+    display: block;
+    width: 42px;
+    margin: 0 auto;
+    padding-left: 4px;
+    padding-bottom: 4px;
+    border-bottom: 2px solid #edbfff;
+    font-size: 24px;
+    color: #fff;
+  }
+  .menu_item {
+    margin: 0 auto;
+    position: relative;
+    width: 242px;
+    padding-top: 14px;
+  }
+  .menu_item:hover {
+    background-color: rgba(71, 59, 78, 0.8);
+    border-radius: 7px 7px 0 0;
+    border-left: 1px solid #050f14;
+    border-right: 1px solid #050f14;
+    border-top: 1px solid #050f14;
+    padding-top: 13px;
+  }
+  .menu_item:hover .menu_sub {
+    display: block;
+  }
+  .menu_sub {
+    display: none;
+    position: absolute;
+    width: 242px;
+    background-color: rgba(71, 59, 78, 0.8);
+    border-radius: 0 0 7px 7px;
+    text-align: center;
+    border-left: 1px solid #050f14;
+    border-right: 1px solid #050f14;
+    border-bottom: 1px solid #050f14;
+    margin-left: -1px;
+  }
+  .menu_sub__link {
+    display: block;
+    font-size: 24px;
+    color: #fff;
+    margin: 0 auto;
+    border-top: 1px solid #513e58;
+    padding-top: 7px;
+    padding-bottom: 10px;
+  }
+  .menu_sub__link:hover {
+    background-color: rgba(42, 33, 47, 0.4);
+    border-bottom: 2px solid #edbfff;
+    padding-top: 7px;
+    padding-bottom: 8px;
+  }
+  .menu_sub__about {
+    margin-top: 5px;
+  }
+  .menu__dispnone {
+    display: none;
+  }
+
+  .radio {
+    position: relative;
+    left: 42%;
+    top: -58px;
+    margin-top: -18px;
+  }
+  .radio_item {
+    display: inline-block;
+    margin-right: 4px;
+    width: 16px;
+    height: 16px;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 50%;
+  }
+  .radio_item:hover .radio_link {
+    display: block;
+  }
+  .radio_link {
+    display: none;
+    margin: 3px auto;
+    width: 10px;
+    height: 10px;
+    background-color: #fff;
+    border-radius: 50%;
+  }
+}
